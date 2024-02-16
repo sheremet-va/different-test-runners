@@ -1,0 +1,9 @@
+{
+  "name": "different-test-runners",
+  "scripts": {
+    "mocha": "mocha mocha/*"
+  },
+  "devDependencies": {
+    "mocha": "^10.3.0"
+  }
+}
